@@ -1,4 +1,4 @@
-# 沐光小食 (Muguang Snacks) 官方網站
+# [沐光小食](https://reimu-mywaifu.github.io/-demo-/) (Muguang Snacks) 官方網站
 
 這是一個為「沐光小食」設計的靜態官方網站，採用現代簡約與莫蘭迪色系風格打造。
 
